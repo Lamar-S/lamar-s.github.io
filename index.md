@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Title 1
+description: abcd
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

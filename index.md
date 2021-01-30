@@ -4,7 +4,7 @@ description: abcd
 ---
 
 
-![My Photo](/pics/Business Photo.jpg)
+![My Photo](/pics/Business Photo)
 
 This is content I've developed for my courses:
 

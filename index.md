@@ -1,6 +1,6 @@
 ---
 title: Simmons' Page
-description: abcd
+description: This is a page where I consolidate my coding work
 ---
 
 
@@ -13,4 +13,4 @@ This is content I've developed for my courses:
 Here is a link to a repository:
 - [Check it Out!](https://github.com/Lamar-S/sample)
 
-[![Sorting with lambda Functions](https://img.yoututbe.com/vi/UmUiu59e17Q/0.jpg)](http://www.youtube.com/watch?v=UmUiu59e17Q)
+

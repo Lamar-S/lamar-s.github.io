@@ -11,6 +11,6 @@ This is content I've developed for my courses:
 - [Time Series Decomposition](/timeseries/index.md)
 
 Here is a link to a repository:
-- [Check it Out!](https://cdn.jsdeliver.net/gh/Lamar-S/lamar-s.github.io/index.md)
+- [Check it Out!](https://github.com/Lamar-S/sample)
 
 
